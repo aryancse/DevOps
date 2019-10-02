@@ -22,7 +22,7 @@ distributive== many user can work on the same repository
 compatible==apache subversion campatible 
 branching==which is very usefull
 non-linear== branching is one of the example for this
-speed==because it is written in C
+speed == because it is written in C
 reliable==having backups
 open source
 
